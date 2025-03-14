@@ -1,5 +1,5 @@
 # > HBO-USA
-USER-AGENT,Hbomax*
+USER-AGENT,HBOMAX*
 DOMAIN-SUFFIX,h264.io
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,max.com
 DOMAIN-SUFFIX,maxgo.com
 DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,discomax.com
+PROCESS-NAME,com.hbo.hbonow
