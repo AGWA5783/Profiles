@@ -1,5 +1,7 @@
 # > HBO-USA
 USER-AGENT,HBOMAX*
+DOMAIN,wmff.warnermediacdn.com
+DOMAIN-SUFFIX,h264.io
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbonow.com
