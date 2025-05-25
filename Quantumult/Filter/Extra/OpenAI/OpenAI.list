@@ -2,6 +2,7 @@
 HOST,browser-intake-datadoghq.com,OpenAI
 HOST,chat.openai.com.cdn.cloudflare.net,OpenAI
 HOST,gemini.google.com,OpenAI
+HOST,labs.google,OpenAI
 HOST,openai-api.arkoselabs.com,OpenAI
 HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,OpenAI
 HOST,openaicomproductionae4b.blob.core.windows.net,OpenAI
