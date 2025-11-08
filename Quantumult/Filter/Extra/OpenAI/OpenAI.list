@@ -38,3 +38,13 @@ HOST-KEYWORD,openai,OpenAI
 IP-CIDR,24.199.123.28/32,OpenAI
 IP-CIDR,64.23.132.171/32,OpenAI
 IP-ASN,20473,OpenAI
+
+# > Apple Intelligence
+DOMAIN-SUFFIX,apple-ready.fastly-edge.com,OpenAI
+DOMAIN-SUFFIX,apple-relay.apple.com,OpenAI
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,OpenAI
+DOMAIN-SUFFIX,cp4.cloudflare.com,OpenAI
+DOMAIN-SUFFIX,gateway.icloud.com,OpenAI
+DOMAIN-SUFFIX,guzzoni.apple.com,OpenAI
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,OpenAI
+DOMAIN-SUFFIX,smoot.apple.com,OpenAI
