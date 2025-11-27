@@ -240,7 +240,6 @@ DOMAIN-SUFFIX,kidgrid.tv
 DOMAIN-SUFFIX,kumo.com
 DOMAIN-SUFFIX,latampartneruniversity.com
 DOMAIN-SUFFIX,live.cn
-DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.com.au
 DOMAIN-SUFFIX,live.eu
 DOMAIN-SUFFIX,live.net
@@ -658,14 +657,12 @@ DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
-DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
 USER-AGENT,Microsoft*
